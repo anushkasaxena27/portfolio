@@ -1,0 +1,52 @@
+
+body{
+    background-color: white;
+    color: blue;
+    border-style: solid;
+    border-width: 2px;
+    margin: 10px;
+    padding : 25px
+}
+h1.right{
+    text-align: right;
+}
+a:link{
+    color: blue;
+    text-decoration-line: underline;
+}
+a:visited{
+    color:purple;
+    text-emphasis: underline;
+}
+header{
+    line-height: 1;
+}
+p.heading{
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+table{
+    width: 100%;
+}
+th{
+    font-weight: lighter;
+    width : 50%
+}
+th.header{
+    text-align: left;
+}
+td.header2{
+    text-align: right;
+}
+ul.certificate{
+    list-style-type: square;
+}
+ul.project{
+    list-style-type: "✓  ";
+}
+p.end{
+    text-align: right;
+    font-weight: bold;
+}
+
+
